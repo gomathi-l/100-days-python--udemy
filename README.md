@@ -1,4 +1,4 @@
-# 100-days-python--udemy
+# 100 Days of Code: The Complete Python Pro Bootcamp
  
 **Access the course:** https://www.udemy.com/course/100-days-of-code
 
